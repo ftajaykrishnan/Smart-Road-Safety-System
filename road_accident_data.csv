@@ -1,0 +1,9 @@
+latitude,longitude,place_name,weather,road_type,traffic_volume,time_of_day,accident_count
+9.9312,76.2673,MG Road Kochi,Rainy,Urban,850,Evening,6
+8.5241,76.9366,Kazhakkoottam,Clear,Highway,1200,Night,8
+10.8505,76.2711,Palakkad Bypass,Fog,Rural,300,Morning,2
+11.2588,75.7804,Kozhikode City,Rainy,Urban,700,Evening,5
+9.4981,76.3388,Alappuzha Town,Clear,Urban,400,Afternoon,1
+10.5276,76.2144,Thrissur NH,Rainy,Highway,1000,Night,7
+8.8932,76.6141,Kollam City,Fog,Urban,600,Morning,4
+9.17
